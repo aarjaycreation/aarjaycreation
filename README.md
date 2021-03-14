@@ -1,4 +1,4 @@
-### Hi there, I'm Rahul - [aarjaycreation][website] 👋
+### Hi there, I'm Rahul - [aarjaycreation] 👋
 
 ## I'm a studant, learner, Developer, and self employed!!
 
