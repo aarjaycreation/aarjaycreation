@@ -67,11 +67,11 @@
 - [aarjaycreation/GMS-Country-Information-Web-App](https://github.com/aarjaycreation/GMS-Country-Information-Web-App) - for get my solution coding challenge
 ### 🌱 My latest projects
 
+- [aarjaycreation/Linux-Post-Installation](https://github.com/aarjaycreation/Linux-Post-Installation) - Post Install scripts for fresh Linux installation.
 - [aarjaycreation/rocky](https://github.com/aarjaycreation/rocky) - i am try some custom scripts 
 - [aarjaycreation/ArchRahul](https://github.com/aarjaycreation/ArchRahul) - 
 - [aarjaycreation/FedoraSetup](https://github.com/aarjaycreation/FedoraSetup) - 
 - [aarjaycreation/FedoraRahul](https://github.com/aarjaycreation/FedoraRahul) - 
-- [aarjaycreation/ros](https://github.com/aarjaycreation/ros) - i am making portable ros with nix os with rahul ?
 ### 🔨 My recent Pull Requests
 
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/227) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
@@ -79,9 +79,9 @@
 - [adding why section](https://github.com/KNB22/project1/pull/1) on [KNB22/project1](https://github.com/KNB22/project1)
 ### ⭐ Recent Stars
 
-- [sevu11/Linux-Post-Installation](https://github.com/sevu11/Linux-Post-Installation) - Post Install scripts for fresh Linux installation.
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributions.
 - [TheLinuxITGuy/Rocky-Scripts](https://github.com/TheLinuxITGuy/Rocky-Scripts) - Easily install Rocky Linux 9.4 with NVIDIA drivers and KDE as your desktop environment.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares 
 - [afonsofrancof/dotfiles](https://github.com/afonsofrancof/dotfiles) - Mirror of https://git.olympuslab.net/afonso/dotfiles
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
